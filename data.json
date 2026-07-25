@@ -1,0 +1,24 @@
+[
+
+    {
+        "name": "Sambhavi",
+        "rollno": "4",
+        "marks": 78,
+        "result": "Pass",
+        "grade": "B"
+    },
+    {
+        "name": "Tony",
+        "rollno": "8",
+        "marks": 78,
+        "result": "Pass",
+        "grade": "B"
+    },
+    {
+        "name": "Sonu",
+        "rollno": "49",
+        "marks": 82,
+        "result": "Pass",
+        "grade": "A"
+    }
+]
