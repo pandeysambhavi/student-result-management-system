@@ -128,10 +128,9 @@ data.json
 This allows student records to remain saved even after the program is closed.
 
 ## Future Improvements
-
-- Possible future improvements include:
+Possible future improvements include:
 - Adding a graphical user interface
-- Adding database support using SQLite or MySQL
+- Adding database support using MySQL
 - Adding user login and authentication
 - Adding subject-wise marks
 - Adding percentage calculation
