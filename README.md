@@ -57,6 +57,7 @@ Contains the main student management functions:
 3. Search Student
 4. Update Student
 5. Delete Student
+
 It also contains input validation logic.
 
 ### utils.py
@@ -91,6 +92,7 @@ The project validates user input to prevent invalid data.
 The program calculates grades automatically based on marks
 
 Marks 90 - 100   80 - 89   70 - 79   60 - 69   35-59   Below 35 
+
 Grade    A+         A         B         C        D        F
 
 ## Result Calculation:
