@@ -91,9 +91,9 @@ The project validates user input to prevent invalid data.
 ## Grade Calculation:
 The program calculates grades automatically based on marks
 
-Marks 90 - 100   80 - 89   70 - 79   60 - 69   35-59   Below 35 
+Marks : 90 - 100    80 - 89    70 - 79     60 - 69     35-59    Below 35 
 
-Grade    A+         A         B         C        D        F
+Grade :    A+          A          B          C          D          F
 
 ## Result Calculation:
 
